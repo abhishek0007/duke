@@ -1,0 +1,2 @@
+  * [A nice introduction from Istler blog](http://istler.com/2012/06/18/deduplication-and-record-linkage/)
+  * [Page about parallelization opportunities in Duke](https://wiki.engr.illinois.edu/display/jflow/Duke)
